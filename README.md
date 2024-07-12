@@ -10,7 +10,7 @@ git clone https://github.com/Sonyayayaya/gene-expression-based-classification.gi
 ## Command
 
 - [Sonya Malygina](https://github.com/Sonyayayaya)
-- [Vasily Popov]()
+- [Vasily Popov](https://github.com/prepref)
 - [Alexandr Ilinskii](https://github.com/zZilman)
 
 ## Sources
