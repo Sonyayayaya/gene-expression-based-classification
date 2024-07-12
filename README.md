@@ -7,6 +7,10 @@ This project is a study of ways to predict gene expression and patient diagnoses
 git clone https://github.com/Sonyayayaya/gene-expression-based-classification.git
 ```
 
+## Datasets
+All data are from The Cancer Genome Atlas (TCGA). This is a variety of data from people with adenocarcenoma, including gene expression and characteristics of patients and the treatments they receive. You can download them here:
+- [Datasets archive](https://drive.google.com/file/d/1WAAm4b0KY1geeKFVRKilQ6011GKLgjo2/view?usp=sharing)
+
 ## Command
 
 - [Sonya Malygina](https://github.com/Sonyayayaya)
